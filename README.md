@@ -14,7 +14,7 @@ Your submission must satisfy the following requirements:
 
 * N1. `pytest` (based on `test_analyzer.py`) is just for validating your program. The final grading will be made by other test cases.
 * N2. Submissions via GitHub Classroom will only be accepted. Submissions via LMS or any other means are not accepted.
-* N3. DO NOT change files in this repository except for `test_analyzer.py`. Adding new files are allowed.
+* N3. DO NOT change files in this repository except for `analyzer.py`. Adding new files are allowed.
 * N4. Late submissions after 4:15pm are *NOT* allowed.
 
 
